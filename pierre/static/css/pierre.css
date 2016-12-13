@@ -1,0 +1,9 @@
+/* CSS for PierreXBlock */
+
+.pierre_block .count {
+    font-weight: bold;
+}
+
+.pierre_block p {
+    cursor: pointer;
+}
